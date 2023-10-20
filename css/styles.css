@@ -1,0 +1,57 @@
+.login-title {
+    color: #69B3E0;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.login-sub-title {
+    color: #B6C34F;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.login-button {
+    color: #B6C34F;
+    text-align: center;
+    display:block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.login-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main-background {
+    background-color: #F9FAF9;
+}
+
+.main-title {
+    color: #69B3E0;    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main-sub-title {
+    color: #B6C34F;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main-button {
+    color: #B6C34F;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main-img {
+    padding-right: 5px;
+    width: 50px;
+    height: 50px;
+}
+
+.main-li {
+    color: #7C7D7C;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;    
+}
+
+
